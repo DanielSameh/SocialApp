@@ -1,6 +1,6 @@
 # React Native Social App
 
-This is a React Native application for a social platform, where users can view posts and comments. The app utilizes Apollo Client for GraphQL queries and React Navigation for navigation between screens.
+This is a React Native application for a social platform, where users can view posts and comments.
 
 ## Features
 
