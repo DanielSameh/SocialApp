@@ -44,3 +44,14 @@ Before you begin, ensure you have met the following requirements:
 2. **Run on a physical device or emulator**:
    - **iOS**: Press `i` to run on an iOS simulator.
    - **Android**: Press `a` to run on an Android emulator.
+
+## Screenshots
+
+![Screenshot_1715470416](https://github.com/DanielSameh/SocialApp/assets/47545173/ab29136f-958a-4af9-a551-527e2c7fdeec)
+
+![Screenshot_1715470402](https://github.com/DanielSameh/SocialApp/assets/47545173/db28a9b0-430b-4fec-9104-492134518fc3)
+
+![Screenshot_1715470408](https://github.com/DanielSameh/SocialApp/assets/47545173/9693422f-6304-47b6-8dcb-7803d3799d13)
+
+![Screenshot_1715470428](https://github.com/DanielSameh/SocialApp/assets/47545173/70d60e11-fb59-4d25-a617-b871789780ef)
+
